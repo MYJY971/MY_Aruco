@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\MY-Build\CMakeFiles\bbd434a5d543741e419db84a72a49ca9\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76781C5B-CDF9-3AEA-A23A-0DB4B9CCF858}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

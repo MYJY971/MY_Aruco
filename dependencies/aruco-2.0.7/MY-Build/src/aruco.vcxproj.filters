@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\ar_omp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\cameraparameters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\cvdrawingutils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\dictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\marker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerdetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerlabeler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markermap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\posetracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerlabelers\dictionary_based.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerlabelers\svmmarkers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\aruco.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\ar_omp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\cameraparameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\cvdrawingutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\dictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\exports.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\levmarq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\marker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerdetector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerlabeler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markermap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\posetracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerlabelers\dictionary_based.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\markerlabelers\svmmarkers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Stage\Yanis\CSharp_projects\Librairies\ARUCO\aruco-2.0.7\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{77EA522F-B4ED-3CDE-9222-E519CEC5CA4F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{82AB1417-2126-3C7D-8383-701F98259E29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
